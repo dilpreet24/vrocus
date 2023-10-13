@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:My project (1)/Assets/material/ImageToStl.com_officescne.fbx.meta
 guid: fe42b31a76ef3834e8fe9587c0178a33
+========
+guid: d041f89d250cdcc4ca94855502e159e8
+>>>>>>>> c2acc32f1018921e243038307a99655b3bd34ac5:My project (1)/Assets/fbx office/source/Minimalistic Modern Office/Minimalistic Modern Office.fbx.meta
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
